@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunixOs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=JunixOs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunixOs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -43,6 +35,15 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JunixOs/JunixOs/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunixOs&theme=synthwave-84&custom_title=My%20Contributions" height="150" alt="activity-graph graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=JunixOs&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
 ###
 
