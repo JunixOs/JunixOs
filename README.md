@@ -11,9 +11,9 @@
 
 ## About Me
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="70%">
 
 - TI Student  
 - Passionate about Full Stack Development  
@@ -21,7 +21,7 @@
 - Interested in Backend, DevOps and Data Analysis  
 
 </td>
-<td>
+<td width="30%" align="right">
 
 <img src="./public/cat-2.jpg" height="200"/>
 
@@ -31,19 +31,11 @@
 
 ---
 
-<div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunixOs&theme=tokyonight" height="150"/>
-
-</div>
-
----
-
 ## Connect with me
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="70%">
 
 <a href="https://discord.com/users/">
   <img src="https://img.shields.io/badge/Discord-Juni_xOr_19-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -56,7 +48,7 @@
 </a>
 
 </td>
-<td>
+<td width="30%">
 
 <img src="./public/cat-1.jpg" height="150"/>
 
@@ -217,6 +209,8 @@
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunixOs&theme=tokyonight">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunixOs&theme=tokyonight" height="200"/>
 
 </div>
 
