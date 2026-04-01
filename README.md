@@ -31,6 +31,14 @@
 
 ---
 
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunixOs&theme=tokyonight" height="150"/>
+
+</div>
+
+---
+
 ## Connect with me
 
 <table>
@@ -208,9 +216,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JunixOs&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunixOs&layout=compact&theme=tokyonight" height="150"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunixOs&theme=tokyonight">
 
 </div>
 
@@ -221,16 +227,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JunixOs&theme=tokyonight" height="150"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JunixOs&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
