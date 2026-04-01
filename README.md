@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="200" src="./public/FB_IMG_1769744622651.jpg"  />
+<img align="right" height="200" src="./public/cat-2.jpg"  />
 
 ###
 
