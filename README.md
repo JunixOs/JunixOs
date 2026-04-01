@@ -1,55 +1,64 @@
-<!--
-**JunixOs/JunixOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" height="200" src="./public/cat-2.jpg"  />
-
-###
-
-<h2 align="center">Hi 👋! My name is JunixOs</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Juni_xOr_19&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=yonel.ordonez@unas.edu.pe&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<p align="left">Developer and TI Student</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JunixOs/JunixOs/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=JunixOs&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunixOs&theme=synthwave-84&custom_title=My%20Contributions" height="150" alt="activity-graph graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=JunixOs&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+JunixOs;Full+Stack+Developer;TI+Student;Always+Learning+New+Things" />
+
 </div>
 
-###
+---
 
-<h2 align="center">My Skills</h2>
+## About Me
 
-###
+<table>
+<tr>
+<td>
+
+- TI Student  
+- Passionate about Full Stack Development  
+- Currently learning: Microservices & Cloud  
+- Interested in Backend, DevOps and Data Analysis  
+
+</td>
+<td>
+
+<img src="./public/cat-2.jpg" height="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Connect with me
+
+<table>
+<tr>
+<td>
+
+<a href="https://discord.com/users/">
+  <img src="https://img.shields.io/badge/Discord-Juni_xOr_19-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:yonel.ordonez@unas.edu.pe">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+<td>
+
+<img src="./public/cat-1.jpg" height="150"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 <h3 align="left">Web Development Skills</h3>
 
@@ -161,7 +170,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Other Skills</h3>
+<h3 align="left">Tools & Others</h3>
 
 ###
 
@@ -193,10 +202,63 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
-###
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JunixOs&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunixOs&layout=compact&theme=tokyonight" height="150"/>
+
+</div>
+
+---
+
+## Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JunixOs&theme=tokyonight" height="150"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JunixOs&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JunixOs/JunixOs/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## Profile Views
 
 <div align="center">
   <img src="https://count.getloli.com/@:JunixOs?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="./public/cat-3.jpg" height=200>
+</div>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
