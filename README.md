@@ -11,31 +11,28 @@
 
 ## About Me
 
-<table width="100%">
-<tr>
-<td width="70%">
+<img align="right" src="./public/cat-2.jpg" height="200"/>
+
+<p align="left">
 
 - TI Student  
 - Passionate about Full Stack Development  
 - Currently learning: Microservices & Cloud  
 - Interested in Backend, DevOps and Data Analysis  
 
-</td>
-<td width="30%" align="right">
+</p>
 
-<img src="./public/cat-2.jpg" height="200"/>
 
-</td>
-</tr>
-</table>
+
+<br clear="both">
 
 ---
 
 ## Connect with me
 
-<table width="100%">
-<tr>
-<td width="70%">
+<img align="left" src="./public/cat-1.jpg" height="200"/>
+
+<div align="center">
 
 <a href="https://discord.com/users/">
   <img src="https://img.shields.io/badge/Discord-Juni_xOr_19-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -47,14 +44,9 @@
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-<td width="30%">
+</div>
 
-<img src="./public/cat-1.jpg" height="150"/>
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
